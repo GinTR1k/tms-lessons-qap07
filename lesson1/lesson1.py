@@ -6,11 +6,11 @@ print(2 - 2)
 print(1 / 2)
 print(3 ** 2)
 
-print(3.0 ** 2)
+print(3.0 ** 5)
 print(2.0 + 2 + 1 + 0 - 20 * 73)
 print(3.0 == 3)
 
-print()
+print('------')
 
 # str, int, float, bool
 print(int(1))
